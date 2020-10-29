@@ -1,0 +1,12 @@
+{
+  "name": "saloeater/doctor-farmer-prob",
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "symfony/dotenv": "^5.0@dev"
+  }
+}
